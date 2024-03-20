@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(139, 139, 139);
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.flags{
+    display: flex;
+    justify-content: space-between;
+}
